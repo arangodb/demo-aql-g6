@@ -10,6 +10,7 @@ https://www.arangodb.com/docs/3.7/tutorials-starter.html#starting-a-single-serve
 
 Clone this git repository and run
 ```
+npm install
 npm run start
 ```
 Open http://localhost:3000/ in your browser
